@@ -1,0 +1,2 @@
+# -wiczenia
+FreeCAD - ćwiczenia
